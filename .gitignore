@@ -1,0 +1,7 @@
+# Archivos a omitir en el repositorio
+
+Borrar.txt.txt
+*.tmp
+
+# Carpetas a ignorar en el respositorio
+/Debug
